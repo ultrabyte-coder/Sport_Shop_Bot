@@ -84,7 +84,7 @@
 6. Команда `ОТМЕНА` позволяет отменить последнее действие и вернуться в основное меню.
 
 ## Контакты продавца
-Если у вас возникли вопросы или предложения, вы можете связаться с продавцом через Телеграм: [@UltraNumb_coder](https://t.me/UltraNumb_coder).
+Если у вас возникли вопросы или предложения, вы можете связаться с продавцом через Телеграм: [@UltraNumb_coder](https://t.me/UltraByteCoder).
 
 ---
 
@@ -178,7 +178,7 @@ A list of all necessary libraries and their versions for the proper functioning 
 6. The `CANCEL` command allows you to undo the last action and return to the main menu.
 
 ## Seller Contact
-If you have any questions or suggestions, you can contact the seller via Telegram: [@UltraNumb_coder](https://t.me/UltraNumb_coder).
+If you have any questions or suggestions, you can contact the seller via Telegram: [@UltraNumb_coder](https://t.me/UltraByteCoder).
 
 ---
 
